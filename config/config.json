@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "jace.gold",
+    "password": null,
+    "database": "budget_dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jace.gold",
+    "password": null,
+    "database": "budget_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
